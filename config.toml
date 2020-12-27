@@ -14,7 +14,7 @@ theme = "serif"
 
   [params.logo]
     mobile = "images/logo/gne.jpg"
-    desktop = "images/logo/gne.jpg"
+    desktop = "images/logo/logoDesktop.svg"
     desktop_height = "36px"
     alt = "GNDEC_Ldh"
 
